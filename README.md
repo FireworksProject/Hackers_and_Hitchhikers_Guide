@@ -2,14 +2,13 @@ Hackers' and Hitchhikers' Guide to The Fireworks Project
 ========================================================
 
 This is a collection of documents created and maintained by the members of [The
-Fireworks Project][1], for members of The Fireworks Project. The published
-guide can be found at [www.fireworksproject.com/guide/index.html][3].
+Fireworks Project][1] as a sort of owners' manual. The published guide can be
+found at [www.fireworksproject.com/guide/overview][3].
 
-The document source is in [Markdown][2] format in the `src/` folder. Markdown
-is great for easy conversion to many other formats.
+The document collection source is in [Markdown][2] format in the `src/` folder.
+Markdown is used for easy conversion to other formats.
 
-The published document collection in HTML form can also be found in the `dist`
-folder.
+The document collection source can also be found in the `dist` folder in HTML .
 
 License
 -------
@@ -28,5 +27,5 @@ See CC-LICENSE in this folder for more details.
 
   [1]: http://www.fireworksproject.com
   [2]: http://daringfireball.net/projects/markdown/
-  [3]: http://www.fireworksproject.com/guide/index.html
+  [3]: http://www.fireworksproject.com/guide/overview
 

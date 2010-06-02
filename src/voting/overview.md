@@ -1,6 +1,3 @@
-#Membership Guide for the Fireworks Project#
-
-*Welcome to the Fireworks Project; a member managed, member owned, open-sourced company.  If you are wondering about what you should do as a member of the Fireworks Project, look no futher.*
 
 ##Step 1: Consent##
 
