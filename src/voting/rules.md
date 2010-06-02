@@ -3,7 +3,7 @@
 Rules to Voting Points
 ======================
 
-Your compensations for work in the Fireworks project is by recieving points.
+Your compensations for work in the Fireworks project is by receiving points.
 You are also responsible for distributing points to your fellow contributing
 members. There are some things to keep in when voting points:
 

@@ -3,7 +3,7 @@ Hackers' and Hitchhikers' Guide to The Fireworks Project
 
 *Welcome to the Fireworks Project; a member managed, member owned, open-sourced
 company. Have questions about membership to The Fireworks Project? Look no
-futher.*
+further.*
 
 This is a collection of documents created and maintained by the members of [The
 Fireworks Project][1] as a sort of owners' manual. The document source can be

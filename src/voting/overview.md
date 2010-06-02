@@ -12,8 +12,8 @@ receive points until you do.
 
 [www.fireworksproject.com/join](http://www.fireworksproject.com/join)
 
-You are consenting to our [Operating Agreement] [2], which is explained in
-plain English [here] [3].
+You are consenting to our [Operating Agreement][1], which is explained in
+plain English [here][2].
 
 If you are not sure, you should send an email to `kixxauth@gmail.com`.
 
@@ -34,4 +34,7 @@ month. This can be done in a number of ways:
 2. Know the [Rules to Voting](rules).
 3. Know the [Voting Process](process).
 4. Vote every month in which you remain an active member.  
+
+  [1]: http://groups.google.com/group/fireworks-project/web/limited-liability-company-operating-agreement
+  [2]: http://groups.google.com/group/fireworks-project/web/operating-agreement-explained
 

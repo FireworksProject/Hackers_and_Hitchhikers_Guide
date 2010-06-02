@@ -16,8 +16,8 @@ and a spread sheet of the current point totals for every member (this is
 [April's Point Total] [5]). 
 
 **After that, you are asked to vote points (if you are a current member) to
-other members and recruits who you deem worthy of recieving points. It is
-recomended, but not manditory, that you give the reasoning for your voting. For
+other members and recruits who you deem worthy of receiving points. It is
+recommended, but not mandatory, that you give the reasoning for your voting. For
 now, you must vote points on the monthly review thread.**
 
   [2]: http://groups.google.com/group/fireworks-project
