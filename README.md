@@ -5,10 +5,11 @@ This is a collection of documents created and maintained by the members of [The
 Fireworks Project][1] as a sort of owners' manual. The published guide can be
 found at [www.fireworksproject.com/guide/overview][3].
 
-The document collection source is in [Markdown][2] format in the `src/` folder.
-Markdown is used for easy conversion to other formats.
+The document collection source is written in [Markdown][2] format. You can find
+all the source files in the `src/` folder.  Markdown is used for easy
+conversion to other publishing formats.
 
-The document collection source can also be found in the `dist` folder in HTML .
+The published document collection can also be found in the `/dist` folder in HTML .
 
 License
 -------

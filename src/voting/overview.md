@@ -1,4 +1,4 @@
-[Back to the Fireworks Project Guide] (http://www.fireworksproject.com/guide/overview)
+[Back to the Fireworks Project Guide](../overview)
 
 Quick and dirty guide to points voting.
 ---------------------------------------
