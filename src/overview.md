@@ -11,7 +11,7 @@ found in our [GitHub repository][2].
 
 Get started with our *[Points Voting Guide](voting/overview)*.
 
-Got questions like [Are you guys for real] ()? Check out the [FAQ] () section.
+Got questions like [Do you guys know what you're doing] (answers/doing)? Check out the [FAQ] (FAQ/questions) section.
 
 All content and images are (c) 2009 - 2010 by contributors to The Fireworks
 Project Inc. (http://www.fireworksproject.com) and, unless otherwise indicated,
