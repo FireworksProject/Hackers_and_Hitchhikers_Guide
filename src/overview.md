@@ -11,7 +11,9 @@ found in our [GitHub repository][2].
 
 Get started with our *[Points Voting Guide](voting/overview)*.
 
-Got questions like [Do you guys know what you're doing] (answers/doing)? Check out the [FAQ] (FAQ/questions) section.
+Got questions like [Do you guys know what you're
+doing](faq#do_you_know_what_you_are_doing)? Check out the [FAQ](faq)
+section.
 
 All content and images are (c) 2009 - 2010 by contributors to The Fireworks
 Project Inc. (http://www.fireworksproject.com) and, unless otherwise indicated,
