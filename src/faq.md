@@ -25,19 +25,18 @@ confident in what we are doing.
 If you're asking us about our unique corporate structure, than yes, we know
 what we're doing, *sort of*.  
 
-Not many (if any) companies are 100% open, and 100% member owned and operated.  This type of corporate structure (or lack thereof) flattens out the ridged management hierarchy present in almost all companies.  We allow this to happen by giving each member the ability to evaluate all other members and new recruits with our equity point voting system.
+Not many (if any) companies are 100% open, and 100% member owned and operated.  That means, everything we do is out in the open, for everyone to see. There are no backroom meetings, no loop to worry about being in, and no one acting as "The Hand of God" making decisions that are not explained.  All decisions are created by the members (those who have contributed to the Fireworks Project) and consensus is built.  Everyone brings ideas to the table, and the best one riese to the top.
 
-This structure is both enticing and scary all at the same time.
+Once you're able to wrap your head around the concept, you'll see that we are creating the company you've always wanted to work for.  No more inept bosses to deal with.  No more going unnoticed in the office. No more pointless job requirements. No more doing things you are not interested in.  No more TPS reports and no more PC Load Letter.  
 
-The Fireworks Project allows its members to define what the Fireworks Project is and how to use it.  The Fireworks project has established a [a few rules for voting points](voting/rules) and developed a few [frameworks](link needed). And that's about it.  The members are the defining the rest. This is all by design.
+However, we know this type company isn't for everyone.
 
-The Fireworks Project members are allotted an enormous amount of freedom by not being constrained by an abundance of rules, official procedures, protocols and a boss looking over their shoulder.  It's liberating.
+Many people thrive in a structured environment; 9 to 5, daily to-do lists, weekly scheduled meeting, being told what to do.  And if that is you, you will not like working with us. 
 
-However, this structure is untested and inherently unstable. This is where the *Sort Of* comes in. 
+We are self starters. We are big picture guys but are able to do the mundane little things that make the big picture happen.  We know when to lead and we know when to follow. We know we have awesome ideas, but we know other people usually have better ones. We start work at 2am, or 1 pm or whenever it suits us. We work on Sundays and we take days off when we want to.  We don't let a scheduel dictate us, we dictate our schedule.
 
-An abundance of structure provides stability. Most people like stability which would make working for The Fireworks Project very difficult (content Mircosoft employees, I'm looking at you). And we know that.  We are well aware that there is a chance that our structure might not work. We belive most people don't want to be lemmings, but we could be wrong.
+And that is where the *Sort Of* comes in. Not everyone can work like that and we understand that. But we think there are enough people out there that are sick of the same ole, and will want to join.
 
-But we firmly belive that giving up some of the stability blanket will allow us to do some amazing things; have a company that can turn on a dime, not get Zuckerberged, see our monthly takehome reflect how much work we put into the company and work with peers, not with bosses.  We want that.
 
 Are we crazy? Yes. Crazy like a fox.
 
