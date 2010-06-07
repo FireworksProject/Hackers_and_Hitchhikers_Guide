@@ -11,6 +11,7 @@ Guide](voting/overview), you're not alone.  Knowing we're a
 little....different, we will try to explain ourselves as best we can.
 
 - Seriously....[Do you guys know what you're doing](faq#do_you_know_what_you_are_doing)? 
+- Is your company [Totally Virtual](faq#totally_virtual)?
 
 
 <a class="question" name="do_you_know_what_you_are_doing">
@@ -33,11 +34,13 @@ However, we know this type company isn't for everyone.
 
 Many people thrive in a structured environment; 9 to 5, daily to-do lists, weekly scheduled meeting, being told what to do.  And if that is you, you will not like working with us. 
 
-We are self starters. We are big picture guys but are able to do the mundane little things that make the big picture happen.  We know when to lead and we know when to follow. We know we have awesome ideas, but we know other people usually have better ones. We start work at 2am, or 1 pm or whenever it suits us. We work on Sundays and we take days off when we want to.  We don't let a scheduel dictate us, we dictate our schedule.
+We are self starters. We are big picture guys but are not above doing the small mundane things to make things happen.  We know when to lead and we know when to follow. We know we have awesome ideas, but we know other people usually have better ones. We start work at 2am, or 1 pm or whenever it suits us. We work on Sundays and we take days off when we want to.  We don't let a scheduel dictate us, we dictate our schedule.
 
-And that is where the *Sort Of* comes in. Not everyone can work like that and we understand that. But we think there are enough people out there that are sick of the same ole, and will want to join.
+And that is where the *Sort Of* comes in. There is a lot to wrap your head around when working with us.  There are a lot of preconcieved notions about a work environment you need to toss out. There is a lot of self motivation involved.  There is a lot of trust you need to place in others you've never met before.  You have to be prepared to pull a "Star Ship Enterprise" and go where no one else has gone before.  And all of that is a pretty scary proposition.
 
+We know this won't easy, but nothing worth creating was easy.
 
-Are we crazy? Yes. Crazy like a fox.
-
+<a class="question" name="totally_virtual">
+###Q: Is your company totally virtual?
+<a>
 
