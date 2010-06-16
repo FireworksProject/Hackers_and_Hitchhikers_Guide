@@ -16,9 +16,8 @@ html {
 body { 
 	font: 75% georgia, sans-serif;
 	line-height: 1.88889;
-	color: #555753; 
-	background: #fff url(blossoms.jpg) no-repeat bottom right; 
-	margin: 0; 
+	background-color: white; 
+	margin: 0;
 	padding: 0;
 	}
 p { 
@@ -34,7 +33,7 @@ h3 {
 a:link { 
 	font-weight: bold; 
 	text-decoration: none; 
-	color: #B7A5DF;
+	color: #C9C554;
 	}
 a:visited { 
 	font-weight: bold; 
@@ -49,67 +48,80 @@ acronym {
 	border-bottom: none;
 	}
 
-
 /* specific divs */
 #container { 
-	background: url(zen-bg.jpg) no-repeat top left; 
-	padding: 0 175px 0 110px;  
+	background: #EFEFEB;
+	padding: 0 0px 0 0px;  
 	margin: 0; 
 	position: relative;
+    min-width: 1000px;
+    max-width: 1000px;
+    min-height:1000px;
 	}
 
 #intro { 
 	min-width: 470px;
 	}
+.txtcolor {
+    color: #f90;
+    }
 
 /* using an image to replace text in an h1. This trick courtesy Douglas Bowman, http://www.stopdesign.com/articles/css/replace-text/ */
 #pageHeader h1 { 
-	background: transparent url(h1.gif) no-repeat top left; 
-	margin-top: 10px; 
-	width: 219px; 
-	height: 87px; 
+	background: white url(Title_Solo.gif) no-repeat center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top; 0px;
+    border-bottom: solid 30px #f90;
+	width: 250px; 
+	height: 80px; 
 	float: left;
 	}
 #pageHeader h1 span {
 	display:none
 	}
 #pageHeader h2 { 
-	background: transparent url(h2.gif) no-repeat top left; 
-	margin-top: 58px; 
-	margin-bottom: 40px; 
-	width: 200px; 
-	height: 18px; 
+	background: white; 
+    margin-top: 80px; 
+	margin-bottom: 0px; 
+	width: 750px; 
+	height: 30px; 
 	float: right;
+    font-size: 25px;
+    text-align: right;
+    line-height: 30px;
 	}
-#pageHeader h2 span {
-	display:none
-	}
+
 #pageHeader {
-	padding-top: 20px;
+	padding-top: 0px;
 }
 
 #quickSummary {
-	clear:both; 
-	margin: 20px 20px 20px 10px; 
-	width: 160px; 
-	float: left;
-	}
-#quickSummary p {
-	font: italic 10pt/22pt georgia; 
-	text-align:center;
+	border: dotted 1px;
+    margin: 0px 0px 0px 0px;
+    padding: 5px 5px 5px 5px; 
+	width: 738px; 
+    height: 30px;
+	float: right;
 	}
 
-#preamble {
-	clear: right; 
-	padding: 0px 10px 0 10px;
+#quickSummary p {
+	font: italic 10pt/22pt georgia; 
+	text-align: center;
 	}
+
 #supportingText {	
-	padding-left: 10px; 
-	margin-bottom: 40px;
+    font: 15pt;    
+    border-left: dotted 1px;
+    boder-bottom: dotted 1px;	
+    width: 729px;
+    padding: 10px 10px 10px 10px;
+    float: right;
 	}
 
 #footer { 
-	text-align: center; 
+	text-align: center;
+    border: dotted 1px; 
 	}
 #footer a:link, #footer a:visited { 
 	margin-right: 20px; 
@@ -122,11 +134,11 @@ acronym {
 	right: 0;
 	}
 #linkList2 { 
-	font: 10px verdana, sans-serif; 
-	background: transparent url(paper-bg.jpg) top left repeat-y; 
-	padding: 10px; 
-	margin-top: 150px; 
-	width: 130px; 
+	font: 15px verdana, sans-serif; 
+	padding: 10px;  
+	width: 230px;
+    min-height: 166px; 
+    float: left;
 	}
 #linkList h3.select { 
 	background: transparent url(h3.gif) no-repeat top left; 
@@ -184,7 +196,6 @@ acronym {
 #linkList li a:visited {
 	color: #B3AE94;
 	}
-
 
 #extraDiv1 {
 	background: transparent url(cr2.gif) top left no-repeat; 
