@@ -66,32 +66,42 @@ defined how they would be fought.
 
 Where are the big companies, like Microsoft, Google, and Apple uncomfortable?
 What are some places they simply will not go? We need to understand how they
-have carved up the market.
+have carved up the market to find the opportunities they have presented us with.
 
-When the British forces marched on Concord, Massachussets, the American
+When the British forces marched on Concord, Massachussets in 1775, the American
 colonists knew that they would never beat them while they were in formation, so
-they ambushed them from the woods instead.  When the Americans fought in
-Vietnam, the North Vietnamese knew that the only way to beat them was to draw
-them into the jungles and scatter them about. We can do the same thing as
-these underdogs did, not to destroy the big players, but to define the battles
-and establish our own market.
+they ambushed them from the woods instead.  We can do the same thing as these
+underdogs did, not to destroy the big players in our industry (more about that
+later), but to choose the battles we want to fight and define the terms on
+which they will be fought.
 
-For instance, firms like IBM, Oracle, and Microsoft, serve large, stodgy,
-organizations. Their strategy is to focus large sales teams to work closely
-with their clients over long periods of time, usually with long term contracts.
-They integrate complete "solutions", usually by piecing together technologies
-that they have control over, rather than the technologies that may actually be
-the best fit for their clients. The organizations that buy from these firms are
-not likely to buy from us and it would be a waste of resources to try to
-convince them otherwise.
+For instance, firms like IBM and Oracle serve large, stodgy, organizations.
+Their strategy is to use expensive sales teams to work closely with their
+clients over long periods of time, usually in order to win a long term contract
+from them. They integrate complete "solutions", usually by piecing together
+technologies that they have control over, rather than the technologies that may
+actually be the best fit for their clients.
 
-Facebook, despite all the problems, has social networking locked up. Fighting
-the battle for a new social networking tool on their turf is a sure bet for
-disaster. Google is the best in the world at web search and indexing. Any
-startups building search engines at this point are going to be left in the
-trash bin. The point here is not that there is no room for better enterprise
-software, more mature social networks, and more effective data search, but
-mimicking IBM, Facebook or Google is a fool's errand.
+So there is an opportunity there to sell integrated systems to customers that
+cannot afford large contracts, or do not want to be bound to one providor for
+long periods of time. This has resulted in the growth of software as a service
+in small businesses.
+
+For another example of going outside of the comfort zone of a big market player
+we'll use Facebook as a case study. Despite all the recent problems in 2010,
+Facebook still has social networking locked up. Fighting the battle for a new
+social networking platform on their turf is a sure bet for disaster. So where
+is Facebook uncomfortable? Where does their model of the World break down?
+Possibly in distributed social networks?
+
+The point here is not that there is no room for better enterprise software and
+social network platforms, but that copying the market view of IBM or Facebook
+is a fool's errand. We need to always have a contrarian model of the world when
+compared to the large market makers.
+
+And, the only way to have a contrarian model of the World, is to understand the
+models we are running contrary to. Fighting in the woods is contrary to
+fighting pitched battles out in the open.
 
 ---
 
