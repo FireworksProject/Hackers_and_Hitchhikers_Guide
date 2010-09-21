@@ -40,6 +40,7 @@ ourselves at this point.*
 * There are probably about [165 million Facebook users in the US][5].
 * There are about [23 million Twitter users in the US][4].
 * In the US Yahoo! email gets 106 million, Windows Live 47 million, Gmail 37
+* 3 million businesses accounting for over [30 million user accounts] have ["gone Google"][6].
 million, and AOL 36.4 million, for [226 million total][3]. (Windows Live acquired Hot Mail)
 
   [1]: http://en.wikipedia.org/wiki/Diffusion_of_innovations
@@ -47,4 +48,6 @@ million, and AOL 36.4 million, for [226 million total][3]. (Windows Live acquire
   [3]: http://www.email-marketing-reports.com/metrics/email-statistics.htm
   [4]: http://mashable.com/2010/01/11/twitter-growth-stats/
   [5]: http://www.facebook.com/press/info.php?statistics
+  [6]: http://www.google.com/apps/intl/en/business/gogoogle.html
+  [7]: http://googleblog.blogspot.com/2010/09/three-million-businesses-have-gone.html
 
