@@ -1,18 +1,20 @@
-> The Fireworks Project will put a Personal Internet Account into the hands of
-> everyone with access to an internet connection.
+> The Fireworks Project mission: to organize and integrate internet applications, making them universally accessible and useful.
 
 Internet technologies are advancing rapidly and have been disjointed as a
-concequence. The number of applications available to choose from for something
-as simple as answering emails is mind numbing. While this fracturing suites
-[early technology adopters][1], the majority of internet users are left to fend
-for themselves. This is where our opportunity lies.
+concequence. The number of applications available for something as simple as
+email is mind numbing. The fracturing of internet application technology suites
+the mindset of [early technology adopters][1]; that much we know. However, the
+same thing that excites early adopters is preventing the majority of potential
+internet application users from accessing the tremendous utility that internet
+technology is able to deliver. This is where our opportunity lies.
 
-We are not arguing that the pace of innovation needs to be slowed, but that we
-can package fractured internet technology it as a whole product. The majority
-of the potential market for any technological innovation exists with the
-pragmatic individuals that need it packaged and delivered in a way which allows
-them to immediately put it to use. As this is written in 2010, there is no
-package or service that achieves that.
+We do not take the stance that the pace of innovation needs to be slowed, but
+that we can package fractured internet technology as a whole product for
+late majority adopters while continuing to innnovate at a rapid pace. The
+majority of the potential market for any technological innovation exists with
+the pragmatic individuals that need it packaged and delivered in a way which
+allows them to immediately put it to use. As this is written in 2010, there is
+no market sector that achieves that.
 
 Imagine yourself in 1908, riding in a horse drawn carriage, going past a broken
 down motorist stuck on the side of the road. In those days motoring was a
@@ -22,14 +24,14 @@ so much money on such a useless toy?
 
 Then, several years later, around 1914, cars became more affordable and
 reliable, thanks to the [assembly lines of the Ford Motor company][2]. Now as
-more of your neighbors are able to purchased cars you began to see their
-usefullness. Soon, your pragmatic nature convinces you that owning a car may
-actually be a good idea.
+more of your neighbors are purchasing cars you began to see their usefullness.
+Soon, your pragmatic nature convinces you that owning a car may actually be a
+good idea.
 
 The early adopters of automobiles were tinkerers. The same is true of internet
 technologies today. We want to change that so that everyone with internet
-access, early adopters and pragmatic followers alike, is convinced that having
-a Personal Internet account is a good idea.
+access, early adopters and pragmatic followers alike, has access to useful
+internet applications.
 
 ---
 
