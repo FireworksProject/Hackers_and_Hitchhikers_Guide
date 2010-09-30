@@ -8,17 +8,7 @@ Third tier, ignored customers.
 Tactics for creating markets out of noncustomers.
 --------------------------------------------------
 
-### Build the future.
-Many businesses are beginning to get comfortable with the idea that their data
-lives on servers located all over the world instead of in a back office closet.
-This trend will continue as more of today's young workers grow into managers.
-We are also entering a time when most people have a device with them at all
-times that is always connected. In developing countries many people skipped
-traditional computers altogether and joined the Internet on their mobile
-devices. On top of that, there is a new generation of young people entering the
-workforce who are very adept at using internet enabled communications tools to
-collaborate and be more productive. How are these trends going to play out?
-
+### Build the future. (What is our leap of faith idea?)
 Mark Zuckerberg commented that if he didn't build Facebook "somebody else would
 have." He obviously had a clear understanding that there was a trend line which
 predicted the success of Facebook. However, while plenty of people predicted
@@ -27,52 +17,40 @@ it, he is the only one who actually built it.
 One of the biggest differentators of wildly successful firms is not so much
 that they predict the future, but that they define it. It may seem that Mark
 Zuckerberg is being humble by quipping that somebody else would have built
-Facebook if he didn't. But the fact of the matter remains that he did build it.
+Facebook if he didn't; but the fact of the matter remains that he did build it.
+
 By his own admission everyone saw the trend, but Mark will be a billionaire
-because he *built* the future that everyone else *predicted*.
+because he *built* the future that everyone else *predicted*.  What do you get
+by predicting the future? You get to say "I was right", along with millions of
+other people.
 
-What do you get by predicting the future? You get to say "I was right", along
-with millions of other people.  The goal of our firm is not necessarily to be
-"right" about our predictions, but to build a firm that will *make* our
-predictions right.
+So, the goal of The Fireworks Project is not necessarily to be "right" about
+our predictions, but to build a firm that will *make* our predictions right.
+What is our leap of faith?
 
-### Go where others will not go.
-We also need to be wise enough not to target the markets of the big players in
-our industry. This is not to say that we will not compete against them, but we
-need to carefully choose were and how those competitions are played out.  The
-armies of Napoleon Bonaparte and George Washington were able to defeat larger
-and better equipped forces because they chose the battles to fight, and they
-defined how they would be fought.
+### The forgotten masses.
+We are too smart and too talented to target the markets of the big players in
+our industry. So, we'll be fishing in the ocean of the forgotten masses
+instead.
 
-Where are the big companies, like Microsoft, Google, and Apple uncomfortable?
-What are some places they simply will not go? We need to understand how they
-have carved up the market to find the opportunities presented to us.
+This is not to say that we will not compete, but we need to carefully choose
+were and how those competitions are faught.  The armies of Napoleon Bonaparte
+and George Washington were able to defeat larger and better equipped forces
+because they chose the battles to fight; and they defined how they would be
+fought.
 
-For instance, firms like IBM and Oracle serve large, stodgy, organizations.
-Their strategy is to use expensive sales teams to work closely with their
-clients over long periods of time, usually in order to win long term contracts
-from them. They integrate complete "solutions", usually by piecing together
-technologies that they have control over, rather than the technologies that may
-actually be the best fit for their clients.
-
-So there is an opportunity there to sell integrated systems to customers that
-cannot afford large contracts, or do not want to be bound to one providor for
-long periods of time. This has resulted in the growth of software as a service
-for small businesses.
-
-Another example we can use is Facebook. Despite all the recent problems in 2010,
-Facebook still has social networking locked up. Fighting the battle for a new
-social networking platform on their turf is a sure bet for disaster. So where
-is Facebook uncomfortable? Where does their model of the World break down?
-Possibly in distributed social networks?
+Where are Microsoft, Google, and Apple uncomfortable?  What are some places
+they simply will not go? We need to understand how they have carved up the
+market to find the opportunities presented to us.
 
 The point here is not that there is no room for better enterprise software and
 social network platforms, but that copying the market view of IBM or Facebook
-is a fool's errand. We need to always have a contrarian model of the world when
-compared to the large market makers.  Of course the only way to have a
-contrarian model of the World, is to understand the models we are running
-contrary to. Fighting in the woods is contrary to fighting pitched battles out
-in the open.
+is a fool's errand. We must always maintain a contrarian model of the world
+when compared to the large market makers.
+
+Of course the only way to have a contrarian model of the World, is to
+understand the models we are running contrary to. Fighting in the woods is
+contrary to fighting pitched battles out in the open.
 
 ### Appeal to emotion.
 As this is written in September of 2010 Apple Inc. has hit a lifetime high of
@@ -90,11 +68,14 @@ Their attention to user experience design created a feedback loop with their dev
 customers; the Apple tribe. This feedback loop has generated a level of desire so strong
 among consumers that in some circles having an Apple product is considered a need.
 
+There is an old adage in the advertising industry:
+  > "Every man is actually two men. The man he is, and the man he wants to be."
+
 Other market players falter because they forget to appeal to human emotion and believe
 their products will stand on their technical merits alone. Apple's success shows this
-to be a dangerous assumption.
+to be a dangerous assumption. (The Zune anybody?)
 
-We need to find the places in the market that have been neglected by emotional appealing
+We need to find the places in the market that have not been found by emotional appealing
 products and services. Apple found the mp3 player, smart phone, and tablet markets were
 weak in this area. What markets can we find?
 
@@ -107,10 +88,10 @@ fight for our lives just to squeeze out a meager living.  The entrepreneurial
 attitude is to invent a new market where we are the *only* player (at least for
 a little while).
 
-To create a new market requires that we examine whole market ecosystem and keep
-it in mind.  Buyers have plenty of choices in front of them and they will
-always make the one that most suites their needs and appeals to them on an
-emotional level. It is these choices that form a market for an idea.
+To create a new market requires that we understand whole market ecosystem.
+Buyers have plenty of choices in front of them and they will always make the
+one that most suites their needs and appeals to them on an emotional level the
+most. It is these choices that form markets for our ideas.
 
 For example, small business customers will evaluate online software against an
 actual physical filing cabinet, email, Excel, Google Apps, and even a pen and
@@ -130,11 +111,16 @@ When we help a segment of the population meet their objectives in a way that is
 obviously superior to their current mode of operation, we have found a niche
 market that does not exist.
 
+### Steal ideas.
+Everything new is actually just a derivative. Look at Apple and Microsoft.
+Steal liberally; it's not a bad thing.
+
 ### Get in bed with the big players.
 Establish mutually beneficial ties with bigger market makers; so they have an interest in our success.
 
 ### Discover our real customers.
-Who do we actually need to sell to?
+Who do we actually want to sell to? Maybe everyone else forgot to market to somebody that
+actually wants to buy.
 
 ---
 
