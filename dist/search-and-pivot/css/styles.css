@@ -1,0 +1,112 @@
+body {
+	font-family: "Droid Sans", "Lucida Grande", "DejaVu Sans", "Bitstream Vera Sans", "Liberation Sans", Verdana, sans-serif;
+	background-color: #000;
+	color: #fff5df;
+	font-size: 100%;
+}
+a {
+	color: #069;
+	text-decoration: none;
+}
+#content {
+	margin: 4em 0 5em;
+}
+
+#content div h1 {
+	font-size: 1.7em;
+	font-weight: bold;
+	line-height: 1.2;
+	padding-bottom: .7em;
+	border-bottom: .2em solid #ffa200;
+	margin-bottom: 1em;
+}
+#content div h1 strong {
+	display: block;
+	font-size: 2.3em;
+	font-weight: bold;
+}
+#content div h2 {
+	font-size: 1.5em;
+	font-weight: bold;
+	line-height: 1.2;
+	padding: 1.5em 0 .7em;
+	border-bottom: .2em solid #ffa200;
+	margin-bottom: 1em;
+}
+#content div h2 strong {
+	display: block;
+	font-size: 2em;
+	font-weight: bold;
+}
+#content div h3 {
+	font-size: 1.3em;
+	font-weight: bold;
+	border-bottom: .2em solid #ffa200;
+	margin-bottom: .7em;
+	padding-top: 1em;
+}
+#content div h4 {
+	font-size: 1.3em;
+	font-weight: bold;
+	margin-bottom: .7em;
+	padding-top: 1em;
+}
+#content div p {
+	margin-bottom: 1em;
+}
+#content div p em {
+	font-style: italic;
+}
+#content blockquote p {
+	font-style: italic;
+	color: #bbb;
+	font-size: .9em;
+	padding: 1em 2em;
+}
+#content div ul {
+	list-style: disc outside;
+	padding-left: 1em;
+	margin-bottom: 1em;
+}
+#content div ul li p {
+	margin: 0;
+}
+
+#table-of-contents {
+	width: 160px;
+	padding: 20px;
+	position: fixed;
+	left: 20px;
+	top: 10%;
+	border: 1px solid #555;
+}
+
+@media screen {
+	#content {
+		width: 680px;
+		font-size: 1.2em;
+		margin-left: 220px;
+	}
+	#table-of-contents {
+		width: 120px;
+		padding: 20px;
+		position: fixed;
+		left: 20px;
+		top: 10%;
+	}
+	#table-of-contents li.table-of-contents {
+		margin-top: .5em;
+	}
+	#table-of-contents a.table-of-contents {
+		display: block;
+		line-height: 2;
+		border-bottom: 1px dotted #069;
+	}
+	#table-of-contents a.table-of-contents:hover {
+		color: #777;
+		border-bottom-color: #777;
+	}
+	#table-of-contents a.table-of-contents.current {
+		color: #ffa200;
+	}
+}
