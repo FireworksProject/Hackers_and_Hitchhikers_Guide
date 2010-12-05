@@ -21,5 +21,5 @@ are licensed under a Creative Commons Attribution-Share Alike 3.0 Unported
 License (http://creativecommons.org/licenses/by-sa/3.0/).
 
   [1]: http://www.fireworksproject.com
-  [2]: http://github.com/fireworksproject/MemGuide
+  [2]: http://github.com/FireworksProject/Hackers_and_Hitchhikers_Guide
 
