@@ -11,7 +11,7 @@ month.
 If you own one or more points, you are entitled to:
 
 - Your share of profits the Fireworks Project generates *(e.g. if you own one
-  point and all the points of every member combine is 10, you are entitled to
+  point and all the points of every member combined is 10, you are entitled to
   10% of the profits)*.
 
 - Your share of voting rights on corporate decisions *(e.g. if there were
