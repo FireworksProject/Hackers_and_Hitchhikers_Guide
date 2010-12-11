@@ -3,6 +3,17 @@ Code Style
 
 This is a draft document. Please [become a member](http://www.fireworksproject.com/join) and have your say about how we do.
 
+General
+-------
+
+Use not [Yoda conditionals](http://stackoverflow.com/questions/2349378/new-programming-jargon-you-coined/2430307#2430307). Bad:
+  
+    if (true === myVar)
+
+Good:
+
+    if (myVar === true)
+
 HMTL and CSS
 ------------
 
@@ -34,10 +45,7 @@ Example:
 
 We use [comma first notation](https://gist.github.com/357981). Yeah, it's ugly. It's also a lot easier to catch bugs when you use it, and that is beautiful to us. Less bugs, less time, less money, more happy.
 
-Use not [Yoda conditionals](http://stackoverflow.com/questions/2349378/new-programming-jargon-you-coined/2430307#2430307). Bad:
-  
-    if (true === myVar)
+Python
+------
 
-Good:
-
-    if (myVar === true)
+See the [Google Python Style Guide](http://google-styleguide.googlecode.com/svn/trunk/pyguide.html).
