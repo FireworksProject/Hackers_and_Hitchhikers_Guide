@@ -6,7 +6,7 @@ This is a draft document. Please [become a member](http://www.fireworksproject.c
 General
 -------
 
-Use not [Yoda conditionals](http://stackoverflow.com/questions/2349378/new-programming-jargon-you-coined/2430307#2430307). Bad:
+Use not [Yoda conditionals][1]. Bad:
   
     if (true === myVar)
 
@@ -43,9 +43,14 @@ Example:
     , maxlen: 80
     */
 
-We use [comma first notation](https://gist.github.com/357981). Yeah, it's ugly. It's also a lot easier to catch bugs when you use it, and that is beautiful to us. Less bugs, less time, less money, more happy.
+We use [comma first notation][2]. Yeah, it's ugly. It's also a lot easier to catch bugs when you use it, and that is beautiful to us. Less bugs, less time, less money, more happy.
 
 Python
 ------
 
-See the [Google Python Style Guide](http://google-styleguide.googlecode.com/svn/trunk/pyguide.html).
+See the [Google Python Style Guide][3].
+
+  [1]: http://stackoverflow.com/questions/2349378/new-programming-jargon-you-coined/2430307#2430307
+  [2]: https://gist.github.com/357981
+  [3]: http://google-styleguide.googlecode.com/svn/trunk/pyguide.html
+  
