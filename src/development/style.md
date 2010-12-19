@@ -45,6 +45,10 @@ Example:
 
 We use [comma first notation][2]. Yeah, it's ugly. It's also a lot easier to catch bugs when you use it, and that is beautiful to us. Less bugs, less time, less money, more happy.
 
+Also, contrary to many JS coding styles, we use single quotes for string literals. This is not only a stylistic decision but also that creates easier HTML string literals, a task commonly done with JS. So:
+
+`if (typeof foo === 'function')` and `jQuery('<a href="home/page.html">')` are both correct.
+
 Python
 ------
 
