@@ -86,7 +86,7 @@ phone, and tablet markets were weak in this area. What markets can we find?
 
 #### Find a niche that does not yet exist.
 One of the worst things we could do is attempt to be the best player within
-some existing technology market. That instict is part of our consumer
+some existing technology market. That instinct is part of our consumer
 mentality, and it is not healthy for an entrepreneurial mentality.  If we based
 our business on building a better word processing system, we would have to
 fight for our lives just to squeeze out a meager living.  The entrepreneurial

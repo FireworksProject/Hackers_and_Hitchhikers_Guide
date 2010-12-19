@@ -15,6 +15,8 @@ Got questions like [Do you guys know what you're
 doing](faq#do_you_know_what_you_are_doing)? Check out the [FAQ](faq)
 section.
 
+Developers should read the [code style guide](development/style).
+
 All content and images are (c) 2009 - 2010 by contributors to The Fireworks
 Project Inc. (http://www.fireworksproject.com) and, unless otherwise indicated,
 are licensed under a Creative Commons Attribution-Share Alike 3.0 Unported
