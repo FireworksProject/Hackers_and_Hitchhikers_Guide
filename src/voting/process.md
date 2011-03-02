@@ -4,7 +4,7 @@ Voting Process
 ==============
 
 Around the 3rd or 4th of the month, someone in The Fireworks Project creates a
-monthly review on our [Google Group] [2] to recap what has been done within the
+monthly review on [Basecamp] [2] to recap what has been done within the
 company (this is an [April, 2010 Recap] [3]).  On a monthly review, you can
 expect to see the following:
 
@@ -20,7 +20,7 @@ other members and recruits who you deem worthy of receiving points. It is
 recommended, but not mandatory, that you give the reasoning for your voting. For
 now, you must vote points on the monthly review thread.**
 
-  [2]: http://groups.google.com/group/fireworks-project
+  [2]: http://fireworksfactory.basecamphq.com/
   [3]: http://groups.google.com/group/fireworks-project/browse_thread/thread/419ef003691a75f3#
   [4]: http://spreadsheets.google.com/ccc?key=0AqaYslezw-VQdHFWZjJCblUyMG5jbGZNS0JkM1hoRXc&hl=en
   [5]: http://spreadsheets.google.com/ccc?key=t_vDzdTb3whkkeFnLnvsgPw&hl=en
